@@ -1,1 +1,1 @@
-# -Medical_Imaging_Quality_Assurance_System
+# Medical_Imaging_Quality_Assurance_System
