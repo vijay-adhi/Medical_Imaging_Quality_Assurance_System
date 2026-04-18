@@ -4,8 +4,8 @@ pandas
 opencv-python
 
 # Deep Learning (mentioned in README)
-torch
-torchvision
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
 
 # Web API (mentioned in README)
 fastapi
